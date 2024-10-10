@@ -3,13 +3,13 @@
 I’m a **Junior Web Developer** focused on building clean, responsive, and user-friendly websites and applications. My development journey started with a curiosity for coding, and now I’m continuously learning and improving my skills to keep up with the ever-evolving web technologies.
 
 ## 🔧 Technologies & Tools
-- **Front-end:** HTML5, CSS3, JavaScript (ES6+), React
+- **Front-end:** HTML5, CSS3, JavaScript (ES6+), React, Next.js
 - **Back-end:** Node.js, Express
 - **Version Control:** Git & GitHub
 - **Databases:** MongoDB (learning)
 
 ## 📚 What I'm Currently Learning
-- Diving deeper into **React** for better state management and hooks
+- Diving deeper into **Next.js** for better state management and hooks
 - Exploring back-end development with **Node.js** and **Express**
 - Learning about database management with **MongoDB**
 - Experimenting with **RESTful APIs** and how to integrate them into full-stack apps
